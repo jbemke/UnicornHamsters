@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/UnicornHamsters/static/css/main.33158222.chunk.css",
-    "main.js": "/UnicornHamsters/static/js/main.c828f2f3.chunk.js",
-    "main.js.map": "/UnicornHamsters/static/js/main.c828f2f3.chunk.js.map",
-    "runtime-main.js": "/UnicornHamsters/static/js/runtime-main.147cfe54.js",
-    "runtime-main.js.map": "/UnicornHamsters/static/js/runtime-main.147cfe54.js.map",
-    "static/js/2.55f76acc.chunk.js": "/UnicornHamsters/static/js/2.55f76acc.chunk.js",
-    "static/js/2.55f76acc.chunk.js.map": "/UnicornHamsters/static/js/2.55f76acc.chunk.js.map",
-    "static/js/3.6478aa75.chunk.js": "/UnicornHamsters/static/js/3.6478aa75.chunk.js",
-    "static/js/3.6478aa75.chunk.js.map": "/UnicornHamsters/static/js/3.6478aa75.chunk.js.map",
+    "main.css": "/UnicornHamsters/static/css/main.9cb850d9.chunk.css",
+    "main.js": "/UnicornHamsters/static/js/main.0d94f809.chunk.js",
+    "main.js.map": "/UnicornHamsters/static/js/main.0d94f809.chunk.js.map",
+    "runtime-main.js": "/UnicornHamsters/static/js/runtime-main.f6e4666c.js",
+    "runtime-main.js.map": "/UnicornHamsters/static/js/runtime-main.f6e4666c.js.map",
+    "static/js/2.a873e4e8.chunk.js": "/UnicornHamsters/static/js/2.a873e4e8.chunk.js",
+    "static/js/2.a873e4e8.chunk.js.map": "/UnicornHamsters/static/js/2.a873e4e8.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/UnicornHamsters/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/UnicornHamsters/static/js/3.1414eae9.chunk.js.map",
     "index.html": "/UnicornHamsters/index.html",
-    "static/css/main.33158222.chunk.css.map": "/UnicornHamsters/static/css/main.33158222.chunk.css.map",
-    "static/js/2.55f76acc.chunk.js.LICENSE.txt": "/UnicornHamsters/static/js/2.55f76acc.chunk.js.LICENSE.txt",
+    "static/css/main.9cb850d9.chunk.css.map": "/UnicornHamsters/static/css/main.9cb850d9.chunk.css.map",
+    "static/js/2.a873e4e8.chunk.js.LICENSE.txt": "/UnicornHamsters/static/js/2.a873e4e8.chunk.js.LICENSE.txt",
     "static/media/reset.css": "/UnicornHamsters/static/media/font.617a0a92.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.147cfe54.js",
-    "static/js/2.55f76acc.chunk.js",
-    "static/css/main.33158222.chunk.css",
-    "static/js/main.c828f2f3.chunk.js"
+    "static/js/runtime-main.f6e4666c.js",
+    "static/js/2.a873e4e8.chunk.js",
+    "static/css/main.9cb850d9.chunk.css",
+    "static/js/main.0d94f809.chunk.js"
   ]
 }
